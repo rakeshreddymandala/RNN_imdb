@@ -1,4 +1,5 @@
 streamlit
 numpy
 pandas
-tensorflow
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
